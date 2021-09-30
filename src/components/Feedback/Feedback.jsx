@@ -14,7 +14,7 @@ export const Feedback = () => {
         className="fbrow"
       ></Form.Control>
       <Row className="fbrow">
-        <Col lg={8}></Col>
+        <Col lg={8}></Col>  
         <Col lg={1}>
           <Button>Submit</Button>
         </Col>
